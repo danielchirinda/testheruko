@@ -3,6 +3,10 @@ const app = express()
 const mysql = require('mysql2')
 const fs = require('fs')
 
+/**
+ * Teste de commit
+ */
+
 const port = process.env.PORT || 3000
 const connection = mysql.createConnection({
   host: 'us-cdbr-iron-east-02.cleardb.net',

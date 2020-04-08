@@ -5,6 +5,8 @@ CREATE TABLE `contacts` (
   PRIMARY KEY (`id`)
 ) AUTO_INCREMENT=1;
 
+-- Refusing to commit
+
 INSERT INTO `contacts` (`name`,`email`) VALUES ("Cheryl","Nunc.commodo@faucibuslectus.net"),("Leandra","parturient.montes@eutemporerat.net"),("Lana","egestas@Duiscursusdiam.co.uk"),("Brett","fermentum.fermentum@facilisiSedneque.edu"),("Clementine","malesuada.augue.ut@elitpretiumet.ca"),("Gretchen","eget.dictum@Ut.ca"),("Mari","Phasellus.dapibus@molestieorcitincidunt.co.uk"),("Odysseus","pretium.aliquet.metus@risus.edu"),("Dana","eleifend.egestas@aliquet.ca"),("Hadley","et.nunc@Phasellus.org");
 INSERT INTO `contacts` (`name`,`email`) VALUES ("Whilemina","sodales.elit@scelerisquenequesed.co.uk"),("Clark","scelerisque@risusDonecegestas.edu"),("Madison","arcu@Aliquamtinciduntnunc.co.uk"),("Preston","Sed.eu.eros@erat.edu"),("Leonard","congue.turpis@ultricies.org"),("Arden","et@mollisneccursus.ca"),("Sage","quam.vel.sapien@nonegestasa.co.uk"),("Isabelle","mauris.aliquam@miAliquam.edu"),("Jakeem","nisi.Cum@estac.ca"),("Timothy","penatibus@magna.ca");
 INSERT INTO `contacts` (`name`,`email`) VALUES ("Kendall","Nunc@egetipsum.net"),("Fuller","cursus.diam@risusDonecnibh.co.uk"),("Nicole","massa.rutrum@quis.edu"),("Nehru","Aenean@liberoat.co.uk"),("Davis","elit@egetipsumSuspendisse.edu"),("Samson","enim.Nunc@nibhenim.net"),("Elvis","ac.turpis.egestas@malesuada.co.uk"),("Sheila","et.magnis@antedictumcursus.edu"),("Melvin","id.blandit@congue.org"),("Melyssa","sapien.cursus@ridiculus.com");
